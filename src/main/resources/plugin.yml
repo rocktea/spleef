@@ -1,0 +1,3 @@
+name: SpleefPlugin
+version: ${project.version}
+main: com.bbyaworld.spleefplugin.SpleefPlugin
